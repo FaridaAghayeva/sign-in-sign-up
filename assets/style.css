@@ -1,0 +1,112 @@
+* {
+  font-family: Inter;
+}
+
+h1 {
+  margin-right: 17%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-control {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin: auto;
+}
+
+.input-control input {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  border: 1px solid grey;
+}
+
+#btn {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border: solid;
+  padding: 12px 145px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.btn-icons {
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.login-link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.account-text {
+  padding-top: 30px;
+}
+
+#star {
+  margin-left: 20%;
+}
+
+.parolDiv input {
+  position: relative;
+}
+
+.eye-icon {
+  position: absolute;
+  margin-top: -41px;
+  margin-left: 300px;
+}
+
+.eye-icon2 {
+  position: absolute;
+  margin-top: -41px;
+  margin-left: 300px;
+}
+
+.in-icon {
+  right: 530px;
+}
+
+.svg {
+  text-decoration: none;
+  border: 0 solid;
+  width: 0px;
+  height: 0px;
+}
+
+.svg2 {
+  text-decoration: none;
+  border: 0 solid;
+  width: 0px;
+  height: 0px;
+}
+
+.input-control {
+  width: 350px;
+  height: 130px;
+}
+.circle-icon {
+  margin-top: -40px;
+  margin-left: 300px;
+}
+.in-icon {
+  margin-top: 45px;
+  margin-right: 105px;
+}
+.parol2 {
+  display: none;
+}
+.email-input{
+  padding-bottom: 20px;
+}
+
